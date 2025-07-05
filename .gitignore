@@ -1,0 +1,8 @@
+# Ignore build outputs and executables
+build/
+dist/
+*.exe
+*.spec
+__pycache__/
+*.pkl
+*.log
