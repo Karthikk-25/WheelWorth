@@ -35,7 +35,16 @@
 
 ### 🔧 Requirements
 
-- Python 3.x  
+- Python 3.x
+
+
+- 📦 WheelWorth/
+├── car_gui.py                # GUI application
+├── Car model.py              # Script for training and saving the model
+├── car_price_model.pkl       # Trained ML model
+├── car_features.pkl          # Feature columns used in model
+├── README.md                 # Project documentation
+
 - Install dependencies:
 
 ```bash
